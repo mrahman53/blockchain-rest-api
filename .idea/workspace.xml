@@ -11,15 +11,7 @@
       <change beforePath="$PROJECT_DIR$/../../Tablet-Automation/Android/src/test/java/phone/SnapChatHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tablet-Automation/Android/src/test/java/phone/SnapChatHome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tablet-Automation/Generic/src/main/java/commonApi/Base.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Tablet-Automation/iOS/src/test/java/iPhone/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Tablet-Automation/iOS/src/test/java/iPhone/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelDBSandBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/LevelDBSandBox.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaindata/000052.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaindata/CURRENT" beforeDir="false" afterPath="$PROJECT_DIR$/chaindata/CURRENT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaindata/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/chaindata/LOG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaindata/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/chaindata/LOG.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaindata/MANIFEST-000051" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../mobile-automation/Mobile-Automation/.idea/copyright/profiles_settings.xml" beforeDir="false" />
@@ -169,14 +161,14 @@
         <counts>
           <entry key="js" value="534" />
           <entry key="json" value="2" />
-          <entry key="md" value="256" />
+          <entry key="md" value="413" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="534" />
-          <entry key="Markdown" value="256" />
+          <entry key="Markdown" value="413" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -194,11 +186,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LevelDBSandBox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="-381">
+              <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -277,12 +269,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="255">
-                <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
+              <first_editor relative-caret-position="202">
+                <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -313,9 +305,9 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/BlockController.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Index.js" />
         <option value="$PROJECT_DIR$/LevelDBSandBox.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -423,16 +415,15 @@
       <updated>1551913546021</updated>
       <workItem from="1551913547459" duration="343000" />
       <workItem from="1551913953164" duration="12748000" />
-      <workItem from="1552100009318" duration="8129000" />
+      <workItem from="1552100009318" duration="8642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21220000" />
+    <option name="totallyTimeSpent" value="21733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="35" width="1337" height="828" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19452888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -539,17 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="70" selection-start-line="17" selection-start-column="70" selection-end-line="17" selection-end-column="70" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SimpleChain.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -590,11 +570,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LevelDBSandBox.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="-381">
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="202">
+            <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
