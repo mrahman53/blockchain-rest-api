@@ -22,7 +22,7 @@ outline the dependencies(body-parser, express,level,crypto-js) on package.json
 
 npm install 
 
-##start the server by following command
+## start the server by following command
 
 node Index.js
 
