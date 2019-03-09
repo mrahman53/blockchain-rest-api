@@ -27,9 +27,9 @@ npm install
 node Index.js
 
 ## API Endpoint
-# Get block End Point. index-0 which is Genesis block
+## Get block End Point. index-0 which is Genesis block
 curl -v -X GET http://localhost:8000/block/0
 
-# Post block End Point
+## Post block End Point
 curl -v -X POST http://localhost:8000/block
 
