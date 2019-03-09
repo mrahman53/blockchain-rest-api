@@ -15,12 +15,14 @@ Use NPM to initialize your project and create package.json to store project depe
 ```
 npm init
 ```
-## Install all required dependencies(body-parser, express,level,crypti-js)
+## Install all required dependencies(body-parser, express,level,crypto-js)
 
 npm install 
 
 ## API Endpoint
-#Get block index-0 which is Genesis block
+#Get block End Point. index-0 which is Genesis block
 curl -v -X GET http://localhost:8000/block/0
 
+#Post block End Point
+curl -v -X POST http://localhost:8000/block
 

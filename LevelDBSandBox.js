@@ -4,12 +4,11 @@
 
 const level = require('level');
 const chainDB = './chaindata';
-const db = level(chainDB);
 
 class LevelDBSandBox {
 
     constructor() {
-        this.db = db;
+        this.db = level(chainDB);
     }
 
     addLevelDBData(key,value){
@@ -27,15 +26,16 @@ class LevelDBSandBox {
     }
     getLevelDBData(key) {
         let self = this;
-        return new Promise(function (resolve, reject) {
-            self.db.get(key,function(err,value){
+        return new Promise((resolve, reject) => {
+            self.db.get(key,(err,value)=> {
                 if(err){
                     console.log('Expected Block not found', err);
                     reject(err);
                 }
                 resolve(value);
-            });
+            })
         });
+
     }
 
     getHeight(){

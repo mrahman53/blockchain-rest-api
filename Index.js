@@ -2,7 +2,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 
-class Index {
+class BlockAPI {
     constructor() {
         this.app = express();
         this.initExpress();
