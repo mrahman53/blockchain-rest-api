@@ -11,13 +11,20 @@ Installing Node and NPM is pretty straightforward using the installer package av
 
 ### Configuring your project
 
-Use NPM to initialize your project and create package.json to store project dependencies.
-```
+Use NPM to initialize the project and create package.json to store project dependencies.
+
 npm init
-```
-## Install all required dependencies(body-parser, express,level,crypto-js)
+
+outline the dependencies(body-parser, express,level,crypto-js) on package.json
+
+
+## Install all required dependencies by following command
 
 npm install 
+
+##start the server by following command
+
+node Index.js
 
 ## API Endpoint
 #Get block End Point. index-0 which is Genesis block
