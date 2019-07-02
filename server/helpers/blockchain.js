@@ -1,8 +1,8 @@
 (function () {
     "use strict";
     // create chain in levelDB
-    const Block = require("../Block");
-    const levelDB = require("../levelDBSandBox");
+    const Block = require("../model/Block");
+    const levelDB = require("./level");
 
     module.exports = function (chainName = "Blockchain") {
         const chainStore = levelDB(chainName);

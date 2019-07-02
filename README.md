@@ -24,7 +24,7 @@ npm install
 
 ## start the server by following command
 
-node Index.js
+npm start
 
 ## API Endpoint
 ## Get block End Point. index-0 which is Genesis block
